@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PC1-Android-DiegoNanoAquise</string>
+    <string name="login_title">Login</string>
+    <string name="informacion">Información</string>
+    <string name="agregar">Escoja un Integrante</string>
+    <string name="lista_equipos">Lista de Equipos</string>
+</resources>
